@@ -13,13 +13,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Enzo Mancuso
   bio: >-
-    Personal web page of Enzo Mancuso
-  username: username
-  email: your-email@email.com
+    Personal web page
+  username: garret
+  email: dharmafond@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://www.enzomancuso.com"
+url: "https://enzomancuso.com"
 baseurl:
 permalink: /:title/
 google_analytics:
@@ -68,10 +68,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - CHANGELOG.md
   - README.md
   - node_modules
-  - CODE_OF_CONDUCT.md
 
 # Plugins
 plugins:
