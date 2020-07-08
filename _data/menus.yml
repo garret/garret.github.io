@@ -1,10 +1,10 @@
-# - title: home
-#   url: /
-#   external: false
+ - title: home
+   url: /
+   external: false
 
-- title: about
-  url: /about/
-  external: false
+# - title: about
+#   url: /about/
+#   external: false
 
 # - title: notes
 #   url: /notes/
