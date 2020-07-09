@@ -1,8 +1,8 @@
 ---
 title: Scientific Carbonara
-permalink: /scientific-carbonara-sous-vide/
+permalink: /scientific-carbonara/
 layout: page
-excerpt: Recipe on how to cook the best carbonara
+excerpt: Recipe on how to cook the best carbonara using sous vide
 comments: true
 ---
 
