@@ -1,1 +1,5 @@
+#!/bin/bash
+# https://github.com/garret
+# Void Linux post-install packages
+
 sudo xbps-install -Syf xorg-minimal xorg-fonts setxkbmap xkill xf86-video-intel wifish dialog dbus alsa-utils bash-completion curl psmisc htop lxappearance micro leafpad firefox chromium mpv dosfstools exfat-utils ntfs-3g gparted wget neovim gvfs alacritty dunst zathura zathura-pdf-mupdf weechat ranger arandr git redshift Adapta arc-theme arc-icon-theme faba-icon-theme paper-icon-theme libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-i18n-en-US libreoffice-i18n-it libreoffice-i18n-da libreoffice-gnome gimp gomatrix asciiquarium pfetch flameshot terminus-font calc numlockx ntp xsetroot font-cozette font-Siji nerd-fonts-otf atool ueberzug tree cups-pdf freefont-ttf sxiv i3lock-color scrot ImageMagick xautolock pulseaudio tlp nodm pulsemixer xf86-input-synaptics xbacklight thunar-archive-plugin xarchiver fzf baobab bluez tdrop jq fontmanager VeraCrypt ncdu inxi gsimplecal-gtk3 fish-shell picard base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel harfbuzz-devel | tee -a "$HOME/voidmypc.log"
