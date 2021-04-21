@@ -1,4 +1,3 @@
-<meta name="robots" content="noindex">
 ---
 title: Enzos Ønskeliste ✨
 permalink: /onskeliste/
