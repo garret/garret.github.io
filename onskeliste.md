@@ -4,6 +4,7 @@ permalink: /onskeliste/
 layout: page
 excerpt: 
 comments: false
+noindex: true
 ---
 
 - (Vakuumpakker) FoodSaver Stream FFS017X ([se mere](https://foodsaver.dk/products/ffs017x-vakuumeringssystem-af-rustfrit-stal-med-rullemagasin/))
