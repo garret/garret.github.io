@@ -7,6 +7,13 @@ layout: compress
 
 {% include header.html %}
 
+<head>
+  <!-- put this conditional inside of `<head>` element --></head>
+  {% if page.noindex %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+</head>
+  
 <body data-theme="{{ site.mode }}">
   {% include navbar.html %}
   <div class="wrapper">
