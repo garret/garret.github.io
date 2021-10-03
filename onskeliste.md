@@ -7,6 +7,7 @@ comments: false
 noindex: true
 ---
 
-- (Vakuumpakker) FoodSaver Stream FFS017X ([se mere](https://foodsaver.dk/products/ffs017x-vakuumeringssystem-af-rustfrit-stal-med-rullemagasin/))
-- (Varmeapparater) Smart Radiator Thermostat V3+ ([se mere](https://www.tado.com/dk-en/smart-radiator-thermostat))
-- (Varmeapparater) Add-on - Smart Radiator Thermostat - Duo ([se mere](https://www.tado.com/dk-en/add-ons))
+- Gavekort til en restaurant 
+- (Gamepad) [1x eller 2x] 8Bitdo Pro 2 ([se mere](https://www.proshop.dk/Spil-tilbehoer/8Bitdo-Pro-2-Gamepad-SN-Edition-Gamepad-Nintendo-Switch/2923708))
+- (Vakuumpakker)  FoodSaver FFS005X ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumpakker-204003/FS204003?scid=Pricecomparison8084162610))
+- (Vakuumposerulle) Foodsaver vakuumposerulle 28 cm ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumpakker-204003/FS204003?scid=Pricecomparison8084162610))
