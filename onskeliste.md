@@ -9,7 +9,7 @@ noindex: true
 
 - (Gamepad) [1x eller 2x] 8Bitdo Pro 2 ([se mere](https://www.proshop.dk/Spil-tilbehoer/8Bitdo-Pro-2-Gamepad-SN-Edition-Gamepad-Nintendo-Switch/2923708))
 - Gavekort til en restaurant (M.A.S.H., Bæst, Høst, Mirabelle, Bistro Royal)
-- (Vakuumposerulle) Foodsaver vakuumposerulle 28 cm ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumposerulle-28-cm-204102/FS204102)) eller ([her](https://www.amazon.de/-/en/6922621501695/dp/B08XY8SK9B))
+- (Vakuumposerulle) Foodsaver vakuumposerulle 28 cm ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumposerulle-28-cm-204102/FS204102) eller [her](https://www.amazon.de/-/en/6922621501695/dp/B08XY8SK9B))
 - (Vakuumposerulle) Foodsaver vakuumposerulle 20 cm ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumposeruller-20-cm-204101/FS204101))
 - (Salt) Citrussalt i flager ([se mere](https://www.millmortar.com/shop/citrussalt/))
 - (Salt) Røget flagesalt ([se mere](https://www.millmortar.com/shop/roeget-flagesalt/))
