@@ -15,6 +15,6 @@ noindex: true
 - (Salt) Røget flagesalt ([se mere](https://www.millmortar.com/shop/roeget-flagesalt/))
 - (Salt) Tangsalt i flager ([se mere](https://www.millmortar.com/shop/tangsalt-i-flager/))
 - (Salt) Karl Johan Salt ([se mere](https://www.millmortar.com/shop/karl-johan-salt/))
-- (T-shirt) Levi's T-shirt 1, størrelse M ([se mere](https://www.magasin.dk/graphic-set-in-neck-t-shirt/po9xl3ay79k.html?dwvar_po9xl3ay79k_color=801))
-- (T-shirt) Levi's T-shirt 2, størrelse M ([se mere](https://www.magasin.dk/ss-original-hm-tee-cotton-pa/pojolk36bba.html?dwvar_pojolk36bba_color=801))
+- (T-shirt) Levi's T-shirt 1, størrelse S ([se mere](https://www.magasin.dk/graphic-set-in-neck-t-shirt/po9xl3ay79k.html?dwvar_po9xl3ay79k_color=801))
+- (T-shirt) Levi's T-shirt 2, størrelse S? ([se mere](https://www.magasin.dk/ss-original-hm-tee-cotton-pa/pojolk36bba.html?dwvar_pojolk36bba_color=801))
 - (Vakuumpakker)  FoodSaver FFS005X ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumpakker-204003/FS204003?scid=Pricecomparison8084162610))
