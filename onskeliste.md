@@ -18,4 +18,4 @@ noindex: true
 - (T-shirt) Levi's T-shirt 2, størrelse S ([se mere](https://www.magasin.dk/ss-original-hm-tee-cotton-pa/pojolk36bba.html?dwvar_pojolk36bba_color=801))
 - (T-shirt) Levi's T-shirt 1, størrelse S ([se mere](https://www.magasin.dk/graphic-set-in-neck-t-shirt/po9xl3ay79k.html?dwvar_po9xl3ay79k_color=801))
 - (Vakuumpakker)  FoodSaver FFS005X ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumpakker-204003/FS204003?scid=Pricecomparison8084162610))
-- (Oval gryde støbejern) Le Creuset, 29 cm, 4.7 L ([se mere](https://www.lecreuset.dk/da_DK/p/oval-gryde-stobejern/CI1178.html?dwvar_CI1178_color=teal&dwvar_CI1178_size=29cm-l4-7))
+- (Oval gryde støbejern) Le Creuset, Caribbean, 29 cm, 4.7 L ([se mere](https://www.lecreuset.dk/da_DK/p/oval-gryde-stobejern/CI1178.html?dwvar_CI1178_color=teal&dwvar_CI1178_size=29cm-l4-7))
