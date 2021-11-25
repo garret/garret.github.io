@@ -24,6 +24,9 @@ noindex: true
 - (Tilskud til) Italienskkursus på Studieskolen – niveau A2.2
 
 # 👨 Enzo
+- (Ansigtscreme) Rituals face moisturizing gel-cream ([se mere](https://www.rituals.com/da-dk/the-ritual-of-samurai-face-24h-active-hydration-face-cream-1111483.html?source=productlisting&showbacklink=true))
+- (Renseskum) Rituals face cleansing foam ([se mere](https://www.rituals.com/da-dk/the-ritual-of-samurai-face-cleansing-foam-1103189.html?source=productlisting&showbacklink=true))
+- (Skægolie) Rituals beard oil ([se mere](https://www.rituals.com/da-dk/the-ritual-of-samurai-beard-oil-1103184.html?source=productlisting&showbacklink=true))
 - (Skægtrimmer) Philips BT9000 Prestige ([se mere](https://www.philips.dk/c-p/BT9810_15/beard-trimmer-9000-prestige-skaegtrimmer))
 - (E-bog læser) Kobo Libra 2 ([se mere](https://www.computersalg.dk/i/7738653/rakuten-kobo-libra-2-17-8-cm-7-e-bl%c3%a6k-carta-1264-x-1680-pixel-cbr-cbz-html-mobi-pdf-rtf-txt-epub-bmp-gif-jpeg-png-tiff-32-gb))
 - (Vakuumpakker) FoodSaver FFS005X ([se mere](https://www.elgiganten.dk/product/hjem-have/kokkenudstyr/kokkenmaskiner-madlavning/sous-vide-vakuumpakker/foodsaver-vakuumpakker-204003/FS204003?scid=Pricecomparison8084162610))
