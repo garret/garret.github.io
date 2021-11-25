@@ -7,7 +7,7 @@ comments: false
 noindex: true
 ---
 
-Seneste opdatering: 25.11.21
+*Seneste opdatering: 25.11.21*
 
 # 💑 Emilie og Enzos fællesønsker
 - ✨ (Højtaler) [1x eller 2x] Sonos One SL sort ([se mere](https://www.komplett.dk/product/1137446/tv-hifi/hoejttalere/multiroom/sonos-one-sl-sort))
