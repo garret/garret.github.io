@@ -16,11 +16,11 @@ Seneste opdatering: 25.11.21
 # 👩 Emilie
 - Oplevelser
 - Læderfedt
-- Nilens Jord Jumbo Volume mascara
 - L'oréal Paris perfect slim eyeliner
+- Nilens Jord Jumbo Volume mascara
 - Tøj (f.eks. fra Magasin, Message, Selected)
+- Sorte bukser til arbejdsbrug (lange bukser med smalle ben)
 - Vinternattøj (lange bukser med smalle ben og langærmet bluse)
-- Sorte bukser til arbejdsbrug (dvs. ligesom mine ankelbukser, men blot lange med smalle ben)
 - (Tilskud til) Italienskkursus på Studieskolen – niveau A2.2
 
 # 👨 Enzo
