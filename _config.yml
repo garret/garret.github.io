@@ -2,7 +2,7 @@
 title: Enzo Mancuso
 description: 
 lang: en-US
-timezone: Europe/Copenhagen
+timezone: Europe/Rome
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/garret/garret.github.io
 mode: dark # default theme "dark" | "light"
