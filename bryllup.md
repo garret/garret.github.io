@@ -1,5 +1,5 @@
 ---
-title: 👰Emilie og 🤵Enzo bryllup ønskeliste 🤍
+title: 👰Emilie og 🤵Enzo bryllup ønskeliste 👶🤍
 permalink: /bryllup/
 layout: page
 excerpt: 
