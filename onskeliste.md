@@ -7,7 +7,7 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 30.09.22*
+*Seneste opdatering: 30-09-2022*
 - (Salt) Mill og Mortar citrussalt i flager ([se mere](https://www.helsam.dk/mad-drikke/kolonial/salt-bouillon-og-soja/citrussalt-i-flager-mill-mortar?id=13210))
 - (USB sikkerhedsnøgle) Yubico YubiKey 5C NFC ([se mere](https://www.computersalg.dk/i/7308775/yubico-yubikey-5c-nfc-usb-c-sikkerhedsn%c3%b8gle))
 - (VPN abbonement) Mullvad ([6 mdr](https://www.amazon.de/-/en/dp/B092M55HJ2?qu=eyJxc2MiOiIwLjQzIiwicXNhIjoiMC40MCIsInFzcCI6IjAuNTcifQ%3D%3D) eller [1 år](https://www.amazon.de/-/en/dp/B092M5G1G7?qu=eyJxc2MiOiIwLjQzIiwicXNhIjoiMC40MCIsInFzcCI6IjAuNTcifQ%3D%3D))
