@@ -9,5 +9,5 @@ noindex: true
 
 *Seneste opdatering: 30-09-2022*
 
-- ✨ (Højtaler) [1x eller 2x] Sonos One SL sort ([se mere](https://www.komplett.dk/product/1137446/tv-hifi/hoejttalere/multiroom/sonos-one-sl-sort))
-- Gavekort til restaurant (f.eks. M.A.S.H., Bæst, Høst, Mirabelle, Bistro Royal, SURT)
+- ✨ (Robotstøvsuger) Xiaomi Mi Robot Vacuum-Mop 2 ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/rengoring/robotstovsuger/xiaomi-mi-robot-vacuum-mop-2-ultra-robotstovsuger-34264/450620))
+- 
