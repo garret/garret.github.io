@@ -7,7 +7,7 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 30-09-2022*
+*Seneste opdatering: 01-10-2022*
 - (Salt) Mill og Mortar citrussalt i flager ([se mere](https://www.helsam.dk/mad-drikke/kolonial/salt-bouillon-og-soja/citrussalt-i-flager-mill-mortar?id=13210))
 - (USB sikkerhedsnøgle) Yubico YubiKey 5C NFC ([se mere](https://www.computersalg.dk/i/7308775/yubico-yubikey-5c-nfc-usb-c-sikkerhedsn%c3%b8gle))
   - (OTG adapter) USB-C hun / USB-A 2.0 han<sup>*</sup> ([se mere](https://www.av-cables.dk/usb-c-3-1-adapter/usb-c-3-1-otg-adapter-usb-c-hun-usb-a-3-0-han-sort.html))
