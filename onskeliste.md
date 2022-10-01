@@ -16,4 +16,4 @@ noindex: true
 - (E-bog læser) Kobo Libra 2 ([se mere](https://www.komplett.dk/product/1213867/pc-tablets/tablets-e-bogslaesere/e-bogslaesere/kobo-libra-2-7-32gb-sort?channable=00a560696400313231333836376d))
   - (Cover til e-bog læser) Kobo Libra 2 Sort SleepCover<sup>*</sup> ([se mere](https://www.komplett.dk/product/1213869/pc-tablets/e-boglaesere-tilbehoer/kobo-libra-2-sleepcover-sort))
 
-<sup>*</sup> *Valgfri*
+<sup>*</sup>*Valgfri*
