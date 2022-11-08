@@ -12,4 +12,4 @@ noindex: true
 - (Ansigtscreme) Rituals Hydrating Gel Cream refill ([se mere](https://www.rituals.com/en-nl/homme-24h-hydrating-face-cream-refill-1112279.html))
 - (Skægtrimmer) Philips BT9000 Prestige ([se mere](https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/barbering-harfjerning/skagtrimmer/philips-9000-prestige-skagtrimmer-bt981015/53148))
 - (Kontroller) 8Bitdo Pro 2 Classic Edition ([1](https://www.maxgaming.dk/dk/kontroller-til-mobil/pro-2-bluetooth-gamepad-g-classic-edition), [2](https://www.amazon.de/-/en/6922621501695/dp/B08XY8SK9B?qu=eyJxc2MiOiIyLjk2IiwicXNhIjoiMi43NyIsInFzcCI6IjIuNTAifQ%3D%3D) eller [3](https://www.proshop.dk/Spil-tilbehoer/8Bitdo-Pro-2-Bluetooth-Gamepad-SN-Edition-Gamepad-Nintendo-Switch/2923708))
-- (E-bog læser) Onyx BOOX Leaf2 ([se mere](https://euroshop.boox.com/products/leaf2))
+- (E-bog læser) Onyx BOOX Leaf2 ([se mere](https://euroshop.boox.com/products/leaf2?variant=42408171405512))
