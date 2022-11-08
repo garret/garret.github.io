@@ -7,7 +7,7 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 25-10-2022*
+*Seneste opdatering: 08-11-2022*
 - (Salt) Mill og Mortar rødvinssalt flager ([se mere](https://www.helsam.dk/mad-drikke/kolonial/salt-bouillon-og-soja/roedvinssalt-i-flager-mill-mortar?id=13211))
 - (Ansigtscreme) Rituals Hydrating Gel Cream refill ([se mere](https://www.rituals.com/en-nl/homme-24h-hydrating-face-cream-refill-1112279.html))
 - (Skægtrimmer) Philips BT9000 Prestige ([se mere](https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/barbering-harfjerning/skagtrimmer/philips-9000-prestige-skagtrimmer-bt981015/53148))
