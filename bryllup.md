@@ -14,4 +14,4 @@ noindex: true
 - Sonos Sub Mini trådløs subwoofer - sort ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/subwoofer/sonos-sub-mini-tradlos-subwoofer-sort/521270))
 - Xiaomi Mi Robot Vacuum-Mop 2 robotstøvsuger ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/rengoring/robotstovsuger/xiaomi-mi-robot-vacuum-mop-2-ultra-robotstovsuger-34264/450620))
 - Gavekort til gourmetmiddag
-- Wellness-ophold (f.eks. Hotel Ottilia med adgang til Aire Ancient Baths og massage)
+- Wellness-ophold med massage (f.eks. Aire Ancient Baths)
