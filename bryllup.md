@@ -13,5 +13,5 @@ noindex: true
 - Hovedpuder (fra SengeSpecialisten)
 - Sonos Sub Mini trådløs subwoofer - sort ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/subwoofer/sonos-sub-mini-tradlos-subwoofer-sort/521270))
 - Xiaomi Mi Robot Vacuum-Mop 2 robotstøvsuger ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/rengoring/robotstovsuger/xiaomi-mi-robot-vacuum-mop-2-ultra-robotstovsuger-34264/450620))
+- Wellness-ophold med massage (f.eks. [Hotel Ottilia](https://www.brochner-hotels.dk/hotel-ottilia/) med adgang til [Aire Baths](https://beaire.com/landing/priority-black-friday/?me=dk&ln=da))
 - Gavekort til gourmetmiddag
-- Wellness-ophold med massage (f.eks. Aire Ancient Baths)
