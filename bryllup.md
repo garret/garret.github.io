@@ -7,11 +7,13 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 12-11-2022*
+*Seneste opdatering: 13-11-2022*
 
 - [Bimble](https://www.hoptimist.com/dk/produkter/kollektioner/klassiske/hoptimist-bimble-hoptimist-27549.html?dwvar_27549_color=Raw_oak) og [Bumble](https://www.hoptimist.com/dk/produkter/kollektioner/klassiske/hoptimist-bumble-hoptimist-27552.html?dwvar_27552_color=Raw_oak) små hoptimister - ubehandlet eg 
+- Georg Jensen Damask gæstehåndklæder slate ([se mere](https://www.damask.dk/gaestehaandklaeder-slate-/))
+- Georg Jensen Damask håndklæder slate ([se mere](https://www.damask.dk/haandklaeder-slate/))
+- Georg Jensen Damask badehåndklæder slate ([se mere](https://www.damask.dk/badehaandklaeder-slate-/))
 - Hovedpuder (fra SengeSpecialisten)
 - Sonos Sub Mini trådløs subwoofer - sort ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/subwoofer/sonos-sub-mini-tradlos-subwoofer-sort/521270))
-- Xiaomi Mi Robot Vacuum-Mop 2 robotstøvsuger ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/rengoring/robotstovsuger/xiaomi-mi-robot-vacuum-mop-2-ultra-robotstovsuger-34264/450620))
-- Wellness-ophold med massage (f.eks. [Hotel Ottilia](https://www.brochner-hotels.dk/hotel-ottilia/) med adgang til [Aire Baths](https://beaire.com/landing/priority-black-friday/?me=dk&ln=da))
+- Wellness-ophold med massage (f.eks. [Aire Baths](https://beaire.com/landing/priority-black-friday/?me=dk&ln=da))
 - Gavekort til gourmetmiddag
