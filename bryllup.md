@@ -13,7 +13,6 @@ noindex: true
 - Georg Jensen Damask gæstehåndklæder slate ([se mere](https://www.damask.dk/gaestehaandklaeder-slate-/))
 - Georg Jensen Damask håndklæder slate ([se mere](https://www.damask.dk/haandklaeder-slate/))
 - Georg Jensen Damask badehåndklæder slate ([se mere](https://www.damask.dk/badehaandklaeder-slate-/))
-- Hovedpuder (fra SengeSpecialisten)
 - Sonos Sub Mini trådløs subwoofer - sort ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/subwoofer/sonos-sub-mini-tradlos-subwoofer-sort/521270))
-- Wellness-ophold med massage (f.eks. [Aire Baths](https://beaire.com/landing/priority-black-friday/?me=dk&ln=da))
+- Aire Baths spa og massage ([se mere](https://beaire.com/landing/priority-black-friday/?me=dk&ln=da))
 - Gavekort til gourmetmiddag
