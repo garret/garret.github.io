@@ -12,7 +12,7 @@ noindex: true
 - [Bimble](https://www.hoptimist.com/dk/produkter/kollektioner/klassiske/hoptimist-bimble-hoptimist-27549.html?dwvar_27549_color=Raw_oak) og [Bumble]() små hoptimister - ubehandlet eg 
 - Georg Jensen Damask gæstehåndklæder slate ([se mere](https://www.damask.dk/gaestehaandklaeder-slate-/))
 - Georg Jensen Damask badehåndklæder slate ([se mere](https://www.damask.dk/badehaandklaeder-slate-/))
-- Georg Jensen Damask håndklæder slate ([se mere](https://www.damask.dk/haandklaeder-slate/))
+- Georg Jensen Damask håndklæder slate ([se mere](https://www.damask.dk/haandklaede-slate--/))
 - Sonos Sub Mini trådløs subwoofer - sort ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/subwoofer/sonos-sub-mini-tradlos-subwoofer-sort/521270))
 - Sonos One Gen 2 - hvid ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/hojttalere/sonos-one-gen-2-hojttaler-hvid/22152))
 - Ankarsrum Assistent Original - mineral white ([se mere](https://www.ankarsrum.com/dk/product/assistent-original-mineral-white-mw/))
