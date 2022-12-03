@@ -16,6 +16,8 @@ noindex: true
 - Savlesmæk
 - Tøj (str. 74)
 
+# 🏊‍♀️ Emilie
+
 # 👨‍🔬 Enzo
 - ✨ [1x eller 2x] (Kontroller) Sort Sony trådløs DualShock 4 V2 ([se mere](https://www.maxgaming.dk/dk/ps4-kontrollere/ps4-dualshock-4-wireless-controller-black-v2))
 - (Salt) Mill og Mortar rødvinssalt flager ([se mere](https://www.helsam.dk/mad-drikke/kolonial/salt-bouillon-og-soja/roedvinssalt-i-flager-mill-mortar?id=13211))
