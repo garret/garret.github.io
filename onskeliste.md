@@ -13,11 +13,14 @@ noindex: true
 - Spiseforklæde / langærmet hagesmæk 
 - Baby-service (bl.a. tallerken, dyb tallerken, spildfri kop, bestik)
 - Legetøj (sansetæppe, spejl, spilledåse, rangle, rasleæg, bolde, bøger af stof eller karton, puslespil med knopper, gåvogn, ringe på pind/pyramide)
-- Babyrytmik 6-9 mdr hos APA
+- Babyrytmik 6-9 mdr hos APA ([se mere](https://www.apa.dk/kategori-babyrytmik-6-9-mdr/?category=1384&course=13020))
 - Savlesmæk
 - Tøj (str. 74)
 
 # 🏊‍♀️ Emilie
+- Vinternattøj (langærmet trøje og lange bukser med smalle ben), str. 38/M
+- Oplevelser - f.eks. ansigtsbehandling, massage, restaurantbesøg
+- Lang regnjakke, str. 38/M
 
 # 👨‍🔬 Enzo
 - ✨ [1x eller 2x] (Kontroller) Sort Sony trådløs DualShock 4 V2 ([se mere](https://www.maxgaming.dk/dk/ps4-kontrollere/ps4-dualshock-4-wireless-controller-black-v2))
