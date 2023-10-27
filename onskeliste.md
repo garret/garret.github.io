@@ -1,5 +1,5 @@
 ---
-title: Matteo, Emilie og Enzos ønskelister 🎄🎁
+title: Enzos ønskeliste 🎁
 permalink: /onskeliste/
 layout: page
 excerpt: 
