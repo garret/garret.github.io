@@ -14,5 +14,5 @@ noindex: true
 - (Cykel Speedhack) iSpeed for Tenways CGO800s ([se mere](https://iapp.nl/products/#!/iSpeed-CGO800s/p/585189408))
 - (Hard-drive enclosure) StarTech.com USB 3.1 Gen 2 (10 Gbps) ([se mere](https://www.proshop.dk/Harddisk-tilbehoer/StarTechcom-USB-31-Gen-2-10-Gbps-Enclosure-for-35-SATA-Drives/2522893))
 - (Køkkenudstyr) Zwilling Fresh & Save vakuumpumpe ([se mere](https://www.proshop.dk/Andre-koekkenapparater/Zwilling-Fresh-Save-handheld-vacuum-bag-sealer-white/3133668))
-- (Ansigtscreme) Refill for Rituals Hydrating Gel Cream ([se mere](https://www.rituals.com/en-nl/homme-24h-hydrating-face-cream-refill-1112279.html))
+- (Ansigtscreme) Refill til hydrerende gelcreme ([se mere](https://www.rituals.com/da-dk/homme-24h-hydrating-face-cream-refill-1116373.html?showbacklink=false&source=cop))
 - (Chokolade) Peter Beier Lovebites ([se mere](https://pbchokolade.dk/shop/97-tins/215-lovebites/))
