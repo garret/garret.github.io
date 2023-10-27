@@ -7,26 +7,11 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 11-12-2022*
-
-# 👶 Matteo
-- Spiseforklæde / langærmet hagesmæk 
-- Baby-service (bl.a. tallerken, dyb tallerken, spildfri kop, bestik)
-- Legetøj (sansetæppe, spejl, spilledåse, rangle, rasleæg, bolde, bøger af stof eller karton, puslespil med knopper, gåvogn, ringe på pind/pyramide)
-- Babyrytmik 6-9 mdr hos APA ([se mere](https://www.apa.dk/kategori-babyrytmik-6-9-mdr/?category=1384&course=13020))
-- Savlesmæk
-- Tøj (str. 74)
-
-# 🏊‍♀️ Emilie
-- Vinternattøj (langærmet trøje og lange bukser med smalle ben), str. 38/M
-- Oplevelser - f.eks. ansigtsbehandling, massage, restaurantbesøg
-- Lang regnjakke, str. 38/M
+*Seneste opdatering: 27-10-2023*
 
 # 👨‍🔬 Enzo
-- ✨ [1x eller 2x] (Controller) Sort Sony trådløs DualShock 4 V2 ([se mere](https://www.maxgaming.dk/dk/ps4-kontrollere/ps4-dualshock-4-wireless-controller-black-v2))
-- (Salt) Mill og Mortar rødvinssalt flager ([se mere](https://www.helsam.dk/mad-drikke/kolonial/salt-bouillon-og-soja/roedvinssalt-i-flager-mill-mortar?id=13211))
-- (Chokolade) Peter Beier Plade Chokolade 38% PERU ([se mere](https://pbchokolade.dk/shop/13-chokolade-plader/36-plade-chokolade-38-peru/))
-- (Chokolade) Peter Beier Plade Chokolade 49% Hispaniola ([se mere](https://pbchokolade.dk/shop/13-chokolade-plader/578-plade-chokolade-49-hispaniola/))
-- (Chokolade) Peter Beier Glædelig jul ([se mere](https://pbchokolade.dk/shop/146-julegaver/322-glaedelig-jul/))
+- (Smartwatch) Xiaomi Mi Band 7 ([se mere](https://www.computersalg.dk/i/8533387/xiaomi-mi-band-7-aktivitetssporer-med-rem-tpu-sort-h%c3%a5ndledsst%c3%b8rrelse-160-224-mm-display-1-62-bluetooth-13-5-g?fwd=1))
+- (Cykel Speedhack) iSpeed for Tenways CGO800s ([se mere](https://iapp.nl/products/#!/iSpeed-CGO800s/p/585189408))
+- (Hard-drive enclosure) StarTech.com USB 3.1 Gen 2 (10 Gbps) ([se mere](https://www.proshop.dk/Harddisk-tilbehoer/StarTechcom-USB-31-Gen-2-10-Gbps-Enclosure-for-35-SATA-Drives/2522893))
+- (Køkkenudstyr) Zwilling Fresh & Save vakuumpumpe ([se mere](https://www.proshop.dk/Andre-koekkenapparater/Zwilling-Fresh-Save-handheld-vacuum-bag-sealer-white/3133668))
 - (Ansigtscreme) Refill for Rituals Hydrating Gel Cream ([se mere](https://www.rituals.com/en-nl/homme-24h-hydrating-face-cream-refill-1112279.html))
-- (Stegetermometer) Sort (eller grå) Thermapen ONE ([se mere](https://www.kitchenone.dk/produkt/thermapen-one-termometer-sort/))
