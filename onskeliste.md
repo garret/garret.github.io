@@ -17,10 +17,10 @@ noindex: true
 - Tøj (str. 86)
 
 # 👩‍❤️‍👨 Emilie og Enzo
-- (2x) Meraki Håndsæbe Northern Dawn 490 ml ([se mere](https://www.med24.dk/personlig-pleje/hudpleje/haandsaeber/flydende-haandsaebe/meraki-haandsaebe-northern-dawn-490-ml?dfw_tracker=58745-40072))
-- Sneskovl træ med alukant ([se mere](https://www.bauhaus.dk/sneskovl-trae-med-alukant-freund#go-to-description))
-- Airthings View Radon ([se mere](https://hemmingsenkids.dk/collections/laeringstarne](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/indeklima-opvarmning/luftkvalitet/radonmalere-luftkvalitetsmalere/airthings-view-radon-radonmaler-2989/431007))
+- Sneskovl ([se mere](https://www.bauhaus.dk/sneskovl-trae-med-alukant-freund#go-to-description))
+- Airthings View Radon ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/indeklima-opvarmning/luftkvalitet/radonmalere-luftkvalitetsmalere/airthings-view-radon-radonmaler-2989/431007))
 - (2x) Shelly Plus Smoke Alarm ([se mere](https://www.proshop.dk/Smart-Home/Shelly-Plus-Smoke-Alarm-Plug-Play/3165201))
+- (2x) Meraki håndsæbe Northern Dawn 490 ml ([se mere](https://www.med24.dk/personlig-pleje/hudpleje/haandsaeber/flydende-haandsaebe/meraki-haandsaebe-northern-dawn-490-ml?dfw_tracker=58745-40072))
 - Sonos Era 100 hvid højttaler ([se mere](https://www.elgiganten.dk/product/tv-lyd-smart-home/hojtalere-hi-fi/hojttalere/sonos-era-100-hojttaler-hvid/592017))
 - Oplevelser for to - f.eks. restaurantbesøg
   
