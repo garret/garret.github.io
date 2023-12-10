@@ -11,13 +11,13 @@ noindex: true
 
 # 👶 Matteo
 - Legetårn ([se mere](https://hemmingsenkids.dk/collections/laeringstarne))
-- Bøger - f.eks. med lyd og/eller lys
 - Magnetisk tegnetavle ([se mere](https://www.br.dk/produkter/bluey-magnetic-travel-scribbler-tegnetavle/200166346/))
-- Oliekridt
+- Bøger - f.eks. med lyd og/eller lys
 - Tøj (str. 86)
+- Oliekridt
 
 # 👩‍❤️‍👨 Emilie og Enzo
-- Sneskovl ([se mere](https://www.bauhaus.dk/sneskovl-trae-med-alukant-freund#go-to-description))
+- Sneskovl ([se mere](https://www.bauhaus.dk/sneskovl-trae-med-alukant-freund))
 - Airthings View Radon ([se mere](https://www.elgiganten.dk/product/hjem-rengoring-kokkenudstyr/indeklima-opvarmning/luftkvalitet/radonmalere-luftkvalitetsmalere/airthings-view-radon-radonmaler-2989/431007))
 - (2x) Shelly Plus Smoke Alarm ([se mere](https://www.proshop.dk/Smart-Home/Shelly-Plus-Smoke-Alarm-Plug-Play/3165201))
 - (2x) Meraki håndsæbe Northern Dawn 490 ml ([se mere](https://www.med24.dk/personlig-pleje/hudpleje/haandsaeber/flydende-haandsaebe/meraki-haandsaebe-northern-dawn-490-ml?dfw_tracker=58745-40072))
