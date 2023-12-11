@@ -7,7 +7,7 @@ comments: false
 noindex: true
 ---
 
-*Seneste opdatering: 10-12-2023*
+*Seneste opdatering: 11-12-2023*
 
 # 👶 Matteo
 - Legetårn ([se mere](https://hemmingsenkids.dk/collections/laeringstarne))
@@ -28,5 +28,6 @@ noindex: true
 - Vinternattøj (langærmet trøje og lange bukser med smalle ben), str. 38/M
 
 # 👨‍🔬 Enzo
-- (Smartwatch) Xiaomi Mi Band 7 ([se mere](https://www.computersalg.dk/i/8533387/xiaomi-mi-band-7-aktivitetssporer-med-rem-tpu-sort-h%c3%a5ndledsst%c3%b8rrelse-160-224-mm-display-1-62-bluetooth-13-5-g?fwd=1))
-- (Ansigtscreme) Refill til hydrerende gelcreme ([se mere](https://www.rituals.com/da-dk/homme-24h-hydrating-face-cream-refill-1116373.html?showbacklink=false&source=cop))
+- Xiaomi Mi Band 7 ([se mere](https://www.computersalg.dk/i/8533387/xiaomi-mi-band-7-aktivitetssporer-med-rem-tpu-sort-h%c3%a5ndledsst%c3%b8rrelse-160-224-mm-display-1-62-bluetooth-13-5-g?fwd=1))
+- Refill til hydrerende gelcreme ([se mere](https://www.rituals.com/da-dk/homme-24h-hydrating-face-cream-refill-1116373.html?showbacklink=false&source=cop))
+- Google Coral ([se mere](https://raspberrypi.dk/en/product/google-coral-usb-accelerator/?wcmlc=DKK))
